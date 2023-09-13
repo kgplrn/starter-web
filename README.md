@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 you know how!
+
+
+## Copyright
+2023
